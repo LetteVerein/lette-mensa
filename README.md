@@ -5,7 +5,7 @@ Live Web Version - https://letteverein.github.io/lette-mensa_web/
 
 # Project Parts
  - [Web](https://github.com/LetteVerein/lette-mensa_web) (HTML5 - Boostrap, CSS, JS - jQuery)
- - [Backend](https://github.com/LetteVerein/lette-mensa_backend) (Java, MySql - MariaDB)
+ - [Backend](https://github.com/Num2/lette-mensa_backend) (Java, MySql - MariaDB)
  - [Android App](https://github.com/LetteVerein/lette-mensa_android) (Android Java)
 
 ### Legacy project parts
