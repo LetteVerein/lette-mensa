@@ -1,0 +1,109 @@
+{
+  "Mensa0": {
+    "2017-02-28": {
+      "Vorspeise": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Vollkost": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Vegetarisch": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Beilagen": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Dessert": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      }
+    }
+  },
+  "Mensa1": {
+    "2017-02-28": {
+      "Vorspeise": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Leichte-Vollkost": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Dessert": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      },
+      "Gemüseteller": {
+        "kcal": "",
+        "preis": "",
+        "beachte": "",
+        "name": "",
+        "eiweisse": "",
+        "zusatzstoffe": "",
+        "fette": "",
+        "kolenhydrate": "",
+        "beschreibung": ""
+      }
+    }
+  }
+}
